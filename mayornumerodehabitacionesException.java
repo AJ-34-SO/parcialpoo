@@ -1,0 +1,6 @@
+
+public class menornumerodehabitacionesException extends RuntimeException {
+    public menornumerodehabitacionesException(String message) {
+        super(message);
+    }
+}
