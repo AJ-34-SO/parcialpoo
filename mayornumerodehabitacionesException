@@ -1,0 +1,5 @@
+public class mayornumerodehabitacionesException extends RuntimeException {
+    public mayornumerodehabitacionesException(String message) {
+        super(message);
+    }
+}
