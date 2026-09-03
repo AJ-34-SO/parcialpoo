@@ -1,0 +1,5 @@
+public class cantidadenochesException extends RuntimeException {
+    public cantidadenochesException(String message) {
+        super(message);
+    }
+}
